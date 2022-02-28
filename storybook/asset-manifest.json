@@ -4,7 +4,7 @@
     "0.c5a79a83.iframe.bundle.js.map": "./0.c5a79a83.iframe.bundle.js.map",
     "1.5f8b1706.iframe.bundle.js": "./1.5f8b1706.iframe.bundle.js",
     "2.2a64888a.iframe.bundle.js": "./2.2a64888a.iframe.bundle.js",
-    "main.js": "./main.1f7e2181.iframe.bundle.js",
+    "main.js": "./main.0ce993fc.iframe.bundle.js",
     "runtime~main.js": "./runtime~main.c1acb90b.iframe.bundle.js",
     "vendors~main.css": "./static/css/vendors~main.f7bc1b4f.chunk.css",
     "vendors~main.js": "./vendors~main.cdf8f4db.iframe.bundle.js",
@@ -34,8 +34,6 @@
     "static/media/Trainings2.dffb926f.svg": "./static/media/Trainings2.dffb926f.svg",
     "static/media/agentConnectDark.399ba79e.svg": "./static/media/agentConnectDark.399ba79e.svg",
     "static/media/agentConnectLight.be7471b0.svg": "./static/media/agentConnectLight.be7471b0.svg",
-    "static/media/marianne_round.1438f06c.png": "./static/media/marianne_round.1438f06c.png",
-    "static/media/marianne_round_transparent.8f5ad4d6.png": "./static/media/marianne_round_transparent.8f5ad4d6.png",
     "static/media/font.css": "./static/media/worksans-semibold-webfont.3d45de00.woff2",
     "vendors~main.cdf8f4db.iframe.bundle.js.LICENSE.txt": "./vendors~main.cdf8f4db.iframe.bundle.js.LICENSE.txt"
   },
@@ -43,6 +41,6 @@
     "runtime~main.c1acb90b.iframe.bundle.js",
     "static/css/vendors~main.f7bc1b4f.chunk.css",
     "vendors~main.cdf8f4db.iframe.bundle.js",
-    "main.1f7e2181.iframe.bundle.js"
+    "main.0ce993fc.iframe.bundle.js"
   ]
 }
