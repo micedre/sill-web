@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.ad6f0446.chunk.js",
-    "main.js.map": "/static/js/main.ad6f0446.chunk.js.map",
+    "main.js": "/static/js/main.413f2c4d.chunk.js",
+    "main.js.map": "/static/js/main.413f2c4d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1ef0d742.js",
     "runtime-main.js.map": "/static/js/runtime-main.1ef0d742.js.map",
     "static/js/2.51f56a2d.chunk.js": "/static/js/2.51f56a2d.chunk.js",
@@ -16,8 +16,6 @@
     "static/media/GitHub.c1caf98b.svg": "/static/media/GitHub.c1caf98b.svg",
     "static/media/Home2.9b7eb2a2.svg": "/static/media/Home2.9b7eb2a2.svg",
     "static/media/Key.ee359e8f.svg": "/static/media/Key.ee359e8f.svg",
-    "static/media/OnyxiaNeumorphismDarkMode.ad289d73.svg": "/static/media/OnyxiaNeumorphismDarkMode.ad289d73.svg",
-    "static/media/OnyxiaNeumorphismLightMode.7cd80027.svg": "/static/media/OnyxiaNeumorphismLightMode.7cd80027.svg",
     "static/media/Secrets.9a3a9c33.svg": "/static/media/Secrets.9a3a9c33.svg",
     "static/media/ServiceNotFound.b0825094.svg": "/static/media/ServiceNotFound.b0825094.svg",
     "static/media/Services.0a9ebf1d.svg": "/static/media/Services.0a9ebf1d.svg",
@@ -31,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime-main.1ef0d742.js",
     "static/js/2.51f56a2d.chunk.js",
-    "static/js/main.ad6f0446.chunk.js"
+    "static/js/main.413f2c4d.chunk.js"
   ]
 }
