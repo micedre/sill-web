@@ -4,7 +4,7 @@
     "0.c5a79a83.iframe.bundle.js.map": "./0.c5a79a83.iframe.bundle.js.map",
     "1.5f8b1706.iframe.bundle.js": "./1.5f8b1706.iframe.bundle.js",
     "2.2a64888a.iframe.bundle.js": "./2.2a64888a.iframe.bundle.js",
-    "main.js": "./main.71934d45.iframe.bundle.js",
+    "main.js": "./main.d6a410e5.iframe.bundle.js",
     "runtime~main.js": "./runtime~main.c1acb90b.iframe.bundle.js",
     "vendors~main.css": "./static/css/vendors~main.f7bc1b4f.chunk.css",
     "vendors~main.js": "./vendors~main.93567d0b.iframe.bundle.js",
@@ -25,8 +25,6 @@
     "static/media/GitHub.c1caf98b.svg": "./static/media/GitHub.c1caf98b.svg",
     "static/media/Home2.9b7eb2a2.svg": "./static/media/Home2.9b7eb2a2.svg",
     "static/media/Key.ee359e8f.svg": "./static/media/Key.ee359e8f.svg",
-    "static/media/OnyxiaNeumorphismDarkMode.svg": "./static/media/OnyxiaNeumorphismDarkMode.ad289d73.svg",
-    "static/media/OnyxiaNeumorphismLightMode.svg": "./static/media/OnyxiaNeumorphismLightMode.7cd80027.svg",
     "static/media/Secrets.9a3a9c33.svg": "./static/media/Secrets.9a3a9c33.svg",
     "static/media/ServiceNotFound.b0825094.svg": "./static/media/ServiceNotFound.b0825094.svg",
     "static/media/Services.0a9ebf1d.svg": "./static/media/Services.0a9ebf1d.svg",
@@ -43,6 +41,6 @@
     "runtime~main.c1acb90b.iframe.bundle.js",
     "static/css/vendors~main.f7bc1b4f.chunk.css",
     "vendors~main.93567d0b.iframe.bundle.js",
-    "main.71934d45.iframe.bundle.js"
+    "main.d6a410e5.iframe.bundle.js"
   ]
 }
