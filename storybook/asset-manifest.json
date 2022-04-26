@@ -7,9 +7,9 @@
     "main.js": "./main.a0c20901.iframe.bundle.js",
     "runtime~main.js": "./runtime~main.c1acb90b.iframe.bundle.js",
     "vendors~main.css": "./static/css/vendors~main.f7bc1b4f.chunk.css",
-    "vendors~main.js": "./vendors~main.d17ead16.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.5ed4fa7a.iframe.bundle.js",
     "vendors~main.css.map": "./static/css/vendors~main.f7bc1b4f.chunk.css.map",
-    "vendors~main.js.map": "./vendors~main.d17ead16.iframe.bundle.js.map",
+    "vendors~main.js.map": "./vendors~main.5ed4fa7a.iframe.bundle.js.map",
     "6.eff068a1.iframe.bundle.js": "./6.eff068a1.iframe.bundle.js",
     "7.45873350.iframe.bundle.js": "./7.45873350.iframe.bundle.js",
     "7.45873350.iframe.bundle.js.map": "./7.45873350.iframe.bundle.js.map",
@@ -35,12 +35,12 @@
     "static/media/marianne_round.1438f06c.png": "./static/media/marianne_round.1438f06c.png",
     "static/media/marianne_round_transparent.8f5ad4d6.png": "./static/media/marianne_round_transparent.8f5ad4d6.png",
     "static/media/font.css": "./static/media/worksans-semibold-webfont.3d45de00.woff2",
-    "vendors~main.d17ead16.iframe.bundle.js.LICENSE.txt": "./vendors~main.d17ead16.iframe.bundle.js.LICENSE.txt"
+    "vendors~main.5ed4fa7a.iframe.bundle.js.LICENSE.txt": "./vendors~main.5ed4fa7a.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
     "runtime~main.c1acb90b.iframe.bundle.js",
     "static/css/vendors~main.f7bc1b4f.chunk.css",
-    "vendors~main.d17ead16.iframe.bundle.js",
+    "vendors~main.5ed4fa7a.iframe.bundle.js",
     "main.a0c20901.iframe.bundle.js"
   ]
 }
