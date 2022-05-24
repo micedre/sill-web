@@ -324,7 +324,7 @@ export const {
                 "email": "Adresse de courriel",
                 "change account info":
                     "Modifier les informations du compte (comme, par exemple, votre mot de passe)",
-                "agency name": "Nom du service de ratachement",
+                "agency name": "Nom du service de rattachement",
             },
             "AccountUserInterfaceTab": {
                 "title": "Configurer l'interface",
@@ -423,14 +423,14 @@ export const {
                 "email": "Couriel",
                 "establishment": "Établissement",
                 "expert": "Expert technique",
-                "institutional referent": "Rérérent institutionelle",
-                "institutional referent help": `Un référent institutionnel est référent au nom de l'établissement au quelle il est
-                rattaché, les autres référents le son a titre personnel.`,
+                "institutional referent": "Rérérent institutionel",
+                "institutional referent help": `Un référent institutionnel est référent au nom de l'établissement auquel il est
+                rattaché, les autres référents le sont a titre personnel.`,
                 "mail subject": ({ softwareName }) =>
                     `Prise de contacte relative à ${softwareName}`,
                 "mail body": ({ softwareName }) => `
                 Bonjour,
-                J'ai obtenu votre contacte via sill.etalab.gouv.fr, vous êtes référent pour ${softwareName}.  
+                J'ai obtenu votre contact via sill.etalab.gouv.fr, vous êtes référent pour ${softwareName}.  
                 [...]
                 `,
             },
